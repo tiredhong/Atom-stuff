@@ -1,0 +1,25 @@
+/* .Name{
+  font-size: 100px;
+  color: #f40c00;
+} */
+h1{
+  font-size: 50px;
+  font-style: oblique;
+  color: #673147;
+}
+body{
+  background-color: #CF9FFF;
+  font-size: 30px;
+  color:#702963;
+  font-family: "Lucida Console",monospace;
+}
+.end{
+  color: #702963;
+}
+/* h1{
+  color: black;
+} */
+
+/* #artist{
+  color: pink;
+} */

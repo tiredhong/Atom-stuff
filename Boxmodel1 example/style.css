@@ -1,0 +1,50 @@
+body{
+  margin: 0;
+  background-color: black;
+  color: white;
+}
+
+.hongbox{
+  height: 100px;
+  border-color: green;
+  background-color: pink;
+}
+.text{
+  color:yellow;
+  font-size: 20px;
+  border-color: red;
+  border-width: 1px;
+  border-style: dashed;
+  /* margin: 0; */
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+.box1{
+  border-color: white;
+  border-width: 1px;
+  border-style: solid;
+
+
+  padding: 20px;
+  /* pushing the content in, squeezing it and resizing rather than
+  moving the text */
+  margin:10px;
+  margin-bottom: 50px;
+
+  width:25%;
+  /* percentage means of the page */
+}
+.absolutebox{
+  position: absolute;
+  left: 600px;
+  top: 0;
+}
+.relativeBox{
+  position: relative;
+  left: 100px;
+}
+.fixedbox{
+  position: fixed;
+  left: 700px;
+  top: 200 px;
+}
