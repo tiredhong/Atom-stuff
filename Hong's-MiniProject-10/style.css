@@ -1,0 +1,16 @@
+.intro{
+  color: blue;
+  size: 50px;
+}
+
+body{
+  background-color: lightblue;
+}
+
+canvas{
+background-color: black;
+  margin-left: 200px;
+}
+#slider{
+  margin-left: 200px;
+}

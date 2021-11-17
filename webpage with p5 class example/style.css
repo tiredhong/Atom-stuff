@@ -1,0 +1,18 @@
+body{
+  background-color: lightblue;
+  margin-left: 200px;
+
+}
+#headline{
+  color:red;
+}
+
+canvas{
+  margin-left: 200px;
+}
+#circleSlider{
+  margin-left: 200px;
+}
+#circleSlider2{
+  size: 100px;
+}
